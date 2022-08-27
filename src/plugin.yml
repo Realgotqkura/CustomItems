@@ -1,0 +1,13 @@
+main: Main.Main
+author: Realgotqkura
+name: CustomItems
+version: 1.2
+description: This plugin is for giving players an easy way to make custom items with simple commands.
+api-version: "1.13"
+
+commands:
+  ItemStack:
+    description: Shows you the help menu for ItemStacks
+    permission: ItemStack.use
+
+  
